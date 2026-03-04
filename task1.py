@@ -1,8 +1,8 @@
 torch_lit = True
 
 if torch_lit:
-    outcome = "Flicker: the torch works lighting up the cold air around it. "
+    outcome = "Flicker: the torch works lighting up the cold air around it."
 else:
-    outcome = "Doom: the torch didn't work. "
+    outcome = "Doom: the torch didn't work."
 
-print (outcome)
+print(outcome)
